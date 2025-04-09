@@ -23,13 +23,13 @@
 
 ## 학습 결과
 
-![{CF472D4C-8D20-49BB-ACCC-68D1EAFD603B}](https://github.com/user-attachments/assets/47f5c4f6-5463-40c6-b575-f32028c514ab)
+![{BA6A22BD-AB12-4DBD-8714-00F2E625EF74}](https://github.com/user-attachments/assets/6346b3e8-47ed-4edd-a2d3-40f4470e74a9)
 - reward와 실제 적재율 간의 관계를 확인
 - 현재 reward로 최적해를 찾는 것에 한계가 있다는 것을 확인
 
-![{6B6F9B4E-0ABD-41B3-B39F-FFC686FCC8D6}](https://github.com/user-attachments/assets/430ec661-3fa0-400a-afbd-43baaff50fad)
+![{15D14077-1F8D-4F3B-9618-75BD07CE572A}](https://github.com/user-attachments/assets/d0245340-d106-4b4c-bf71-d7c04613ae8b)
 - 학습에 실패
-- 해공간이 너무 넓고 이에 대한 학습 시간이 너무 모자람
+- 해공간이 넓고 이에 대한 충분한 학습을 수행하지 못함
 
 
 ## 프로젝트 구조

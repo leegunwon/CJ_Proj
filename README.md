@@ -21,15 +21,6 @@
 ## 알고리즘 구조
 ![{F5115188-899D-4040-B21F-F6A7B1B2632D}](https://github.com/user-attachments/assets/7ed8363f-f5fb-4659-9af2-d954350966aa)
 
-## 프로젝트 구조
-```
-CJ_palletizing_optimization/
-├── first_proj/
-│   ├── [코드 파일들: 강화학습 에이전트, 환경 시뮬레이터 등]
-├── README.md
-├── .idea/
-```
-
 ## 학습 결과
 
 ![{CF472D4C-8D20-49BB-ACCC-68D1EAFD603B}](https://github.com/user-attachments/assets/47f5c4f6-5463-40c6-b575-f32028c514ab)
@@ -40,10 +31,19 @@ CJ_palletizing_optimization/
 - 학습에 실패
 - 해공간이 너무 넓고 이에 대한 학습 시간이 너무 모자람
 
+
+## 프로젝트 구조
+```
+CJ_palletizing_optimization/
+├── first_proj/
+│   ├── [코드 파일들: 강화학습 에이전트, 환경 시뮬레이터 등]
+├── README.md
+├── .idea/
+```
+
 ## 결론 및 향후 계획
 - 초기 DQN 기반 학습에서는 충분한 성능 개선이 어렵다는 문제를 분석
 - 향후 **메타휴리스틱 기법** 적용 및 **다른 강화학습 알고리즘(PPO, SAC 등)** 을 활용하여 성능을 개선할 예정
 - 팔레타이징 최적화에 특화된 보상 설계 및 상태 표현을 고도화할 계획
-
 
 ![370661](https://github.com/user-attachments/assets/db50845e-606c-422a-88ef-b8cf42a5320a)
